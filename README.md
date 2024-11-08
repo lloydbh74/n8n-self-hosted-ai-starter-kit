@@ -19,6 +19,9 @@ integrations and advanced AI components
 ✅ [**Ollama**](https://ollama.com/) - Cross-platform LLM platform to install
 and run the latest local LLMs
 
+✅ [**Open WebUI**](https://openwebui.com/) - ChatGPT-like interface to
+privately interact with your local models and N8N agents
+
 ✅ [**Qdrant**](https://qdrant.tech/) - Open-source, high performance vector
 store with an comprehensive API
 
